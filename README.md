@@ -1,2 +1,2 @@
-# PYHTIN-SLICING_PRACTICE-
+# PYHTON-SLICING_PRACTICE-
 Python Notebook covering slicing techniques
